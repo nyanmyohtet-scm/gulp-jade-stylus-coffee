@@ -1,0 +1,23 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "Gulp with jade, coffeescript and stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-coffee": "^3.0.3",
+    "gulp-jade": "^1.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
